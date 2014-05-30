@@ -1,5 +1,7 @@
 package com.mblinn.oo.tinyweb;
 
+import java.util.Map;
+
 public class HttpRequest {
   private final String body;
   private final String path;
